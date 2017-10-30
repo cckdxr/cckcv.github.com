@@ -1,2 +1,2 @@
-# cckcv.github.con
+# cckcv.github.com
 my online resume
